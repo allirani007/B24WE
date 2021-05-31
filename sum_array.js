@@ -1,5 +1,7 @@
 //Sum of all numbers in an array
+//project
 const readline = require("readline");
+
 
 const inp = readline.createInterface({
   input: process.stdin
